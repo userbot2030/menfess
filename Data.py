@@ -30,7 +30,7 @@ class Data:
    - Tampilan statistik unduhan file.
    - Dukungan untuk berbagai jenis file.
 
-Untuk informasi lebih lanjut dan pemesanan, silakan hubungi @OwnNeko.
+Untuk informasi lebih lanjut dan pemesanan, silakan hubungi @mhmdwldnnnn.
 """
 
     close = [
