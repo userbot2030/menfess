@@ -20,7 +20,7 @@
 <details>
 <summary><b>🔗 Deploy on Heroku</b></summary> <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nekolocal/nekomenfess)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/userbot2030/nekomenfess)</br>
 </details>
 
 <details>
