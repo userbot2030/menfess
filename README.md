@@ -20,7 +20,7 @@
 <details>
 <summary><b>🔗 Deploy on Heroku</b></summary> <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/userbot2030/nekomenfess)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/userbot2030/menfess)</br>
 </details>
 
 <details>
@@ -47,7 +47,7 @@
 ### Eksekusi
 Pertama Salin Kode Dibawah dan Tempel di Vps Kalian.. Tunggu Hingga Proses Selesai
 ````bash
-git clone https://github.com/nekolocal/nekomenfess && cd nekomenfess
+git clone https://github.com/userbot2030/menfess && cd nekomenfess
 ````
 Jika Sudah Selesai,Salin Kode Dibawah dan Tempel di Vps
 
