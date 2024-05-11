@@ -7,7 +7,7 @@
     "fwb"
   ],
   "repository": "https://github.com/userbot2030/menfess/tree/main",
-  "logo": "https://telegra.ph/file/2d46007dd7d22645c4ec3.jpg",
+  "logo": "https://telegra.ph//file/89fc7945f8e5fc670bc33.jpg",
   "env": {
     "BOT_TOKEN": {
       "description": "Masukkan token bot kamu, didapatkan dari @Botfather",
@@ -102,19 +102,19 @@
       "value": "50"
     },
     "HASTAG": {
-      "description": "Menambahkan hastag, dipisahkan dengan spasi (#nekogirl wajib di awal dan #nekoboy setelah nekogirl)",
-      "value": "#NekoGirl #NekoBoy #NekoAsk #NekoFind #NekoSpill #NekoStory"
+      "description": "Menambahkan hastag, dipisahkan dengan spasi (#nekogirl wajib di awal dan #danboy setelah noygirl)",
+      "value": "#NoyGirl #DanBoy #DanAsk #DanFind #DanSpill #DanStory"
     },
     "PIC_BOY": {
       "description": "Gambar FWB boy",
-      "value": "https://telegra.ph/file/387bdabb03deaf94fa4e9.jpg"
+      "value": "https://telegra.ph//file/1d40c754d0231d1e3e114.jpg"
     },
     "PIC_TALENTGIRL": {
       "value": "https://telegra.ph/file/95801451d752f089f8e1e.jpg"
     },
     "PIC_GIRL": {
       "description": "Gambar FWB girl",
-      "value": "https://telegra.ph/file/2bc2dc1fad8e33cf69e6d.jpg"
+      "value": "https://telegra.ph//file/89fc7945f8e5fc670bc33.jpg"
     },
     "PIC_DADDYSUGAR": {
       "value": "https://telegra.ph/file/14ca710511333621be61d.jpg"
@@ -132,7 +132,7 @@
       "value": "https://telegra.ph/file/e0dc732430d9b1b0cbfa1.jpg"
     },
     "PIC_OWNER": {
-      "value": "https://telegra.ph/file/f58b957f34a978524f07a.jpg"
+      "value": "https://telegra.ph//file/1d40c754d0231d1e3e114.jpg"
     },
     "PESAN_JOIN": {
       "description": "Pesan join grup, atau akses ditolak",
@@ -144,7 +144,7 @@
     },
     "GAGAL_KIRIM": {
       "description": "Pesan ketika hastag yang diketik tidak sesuai",
-      "value": "{mention}, pesanmu gagal terkirim. Silahkan gunakan hastag:\n\n#NekoBoy / #NekoGirl untuk Mencari Pasangan, Teman, Partner dll\n#NekoAsk untuk Bertanya\n#NekoStory untuk Berbagi Cerita\n#NekoSpill untuk Spill Masalah\n#NekoFind untuk Mencari Pasangan, Teman, Partner dll"
+      "value": "{mention}, pesanmu gagal terkirim. Silahkan gunakan hastag:\n\n#DanBoy / #NoyGirl untuk Mencari Pasangan, Teman, Partner dll\n#NekoAsk untuk Bertanya\n#DanStory untuk Berbagi Cerita\n#DanSpill untuk Spill Masalah\n#DanFind untuk Mencari Pasangan, Teman, Partner dll"
     }
   },
   "addons": [
