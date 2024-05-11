@@ -54,7 +54,7 @@ Untuk informasi lebih lanjut dan pemesanan, silakan hubungi @OwnNeko.
     ]
 
     DANA = """
-DANA : 081398871823
+DANA : 083107520691
 """
 
     QRIS = """
