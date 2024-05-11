@@ -1,12 +1,12 @@
 {
-  "name": "NekoMenfess",
+  "name": "DanMenfess",
   "description": "Mengirim pesan ke channel Telegram secara anonymous",
   "keywords": [
     "Telegram",
     "menfess",
     "fwb"
   ],
-  "repository": "https://github.com/userbot2030/nekomenfess/tree/main",
+  "repository": "https://github.com/userbot2030/menfess/tree/main",
   "logo": "https://telegra.ph/file/2d46007dd7d22645c4ec3.jpg",
   "env": {
     "BOT_TOKEN": {
